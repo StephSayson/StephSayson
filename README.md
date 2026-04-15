@@ -4,5 +4,5 @@ Starting to Learn Cytometry in R (Hopefully this will make me stick to using R m
 - Cytometry in R
 - Location: Taiwan
 - My favorite fluorophore: BUV737
-- Previous COding Experience: Beginner R (Keep quitting the basics or forgetting them)
+- Previous Coding Experience: Beginner R (Keep quitting the basics or forgetting them)
 - What I hope to get from this course: Learn how to handle FCS data aside from using flowjo and to learn how to process RNAseq data
